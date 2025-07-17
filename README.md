@@ -8,7 +8,7 @@ I'm Sasa <br>
 </p>
 
 <p align="center">
-  <a href="https://docs.google.com/presentation/d/1U8jCRNLHs9CzZYPuQPwK7Z3YciZBzUNHihFbUnwW2mU/edit?slide=id.g268df7cd630_9_4#slide=id.g268df7cd630_9_4">
+  <a href="bit.ly/syazantri">
     📎 CLICK HERE (my portfolio slide)
   </a>
 </p>
