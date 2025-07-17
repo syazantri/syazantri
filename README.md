@@ -8,7 +8,7 @@ I'm Sasa <br>
 </p>
 
 <p align="center">
-  <a href="bit.ly/syazantri">
+  <a href="https://bit.ly/syazantri">
     📎 CLICK HERE (my portfolio slide)
   </a>
 </p>
