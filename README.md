@@ -20,10 +20,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=syazantri&show_icons=true&hide=stars&theme=rose_pine&icon_color=74597d&title_color=381408&text_color=a37188&bg_color=fcedd2" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syazantri&theme=rose-pine&date_format=M%20j%5B%2C%20Y%5D&ring=74597d&fire=a37188&currStreakLabel=381408&background=fcedd2&sideNums=a37188&sideLabels=381408&dates=74597d" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syazantri&layout=compact&theme=rose_pine&title_color=381408&text_color=a37188&bg_color=fcedd2" alt="Top Languages" />
 </p>
