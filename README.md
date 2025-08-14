@@ -7,12 +7,6 @@ I'm Sasa <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F78DA7&center=true&width=435&lines=Helo%2C+please+see+my+projects;I+like+cats+and+im+open+to+work;Contact+me+if+you+are+interested+%F0%9F%A5%BA" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://bit.ly/syazantri">
-    📎 CLICK HERE (my portfolio slide)
-  </a>
-</p>
-
 <p align="center" style="color: #f39c12;">(I'm currently working as a Software Engineer BUT actively learning to become a Data Engineer 😼)</p>
 
 <p align="center">
